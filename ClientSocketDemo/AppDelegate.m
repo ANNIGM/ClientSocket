@@ -19,6 +19,8 @@
     // Override point for customization after application launch.
     NSLog(@"sourcetree的test");
     NSLog(@"sourcetree的test1");
+    NSLog(@"sourcetree的test2");
+    NSLog(@"sourcetree的test2_1");
     return YES;
 }
 

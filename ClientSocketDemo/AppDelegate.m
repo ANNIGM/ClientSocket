@@ -22,7 +22,6 @@
     NSLog(@"sourcetree的test1");
     NSLog(@"sourcetree的test2");
     NSLog(@"sourcetree的test2_1");
->>>>>>> dev
     return YES;
 }
 

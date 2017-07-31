@@ -17,6 +17,12 @@
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     // Override point for customization after application launch.
+    NSLog(@"master");
+    NSLog(@"sourcetree的test");
+    NSLog(@"sourcetree的test1");
+    NSLog(@"sourcetree的test2");
+    NSLog(@"sourcetree的test2_1");
+>>>>>>> dev
     return YES;
 }
 
